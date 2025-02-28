@@ -7,6 +7,7 @@ void sort_string(char* str) {
     for (int i = 0; i < n - 1; i++) {
         for (int j = i + 1; j < n; j++) {
             if (str[i] > str[j]) {
+                // Swap characters
                 char temp = str[i];
                 str[i] = str[j];
                 str[j] = temp;
@@ -18,6 +19,7 @@ void sort_string(char* str) {
 int main() {
     char str1[100], str2[100];
 
+    // Take input for two strings
     printf("Enter first string: ");
     fgets(str1, sizeof(str1), stdin);
     str1[strcspn(str1, "\n")] = 0;  // Remove newline character
@@ -48,14 +50,17 @@ int main() {
     }
     str2[j] = '\0';
 
+    // Check if the strings have different lengths
     if (strlen(str1) != strlen(str2)) {
         printf("The strings are not anagrams.\n");
         return 0;
     }
 
+    // Sort the strings to compare them lexicographically
     sort_string(str1);
     sort_string(str2);
 
+    // Compare the sorted strings
     if (strcmp(str1, str2) == 0) {
         printf("The strings are anagrams.\n");
     } else {
