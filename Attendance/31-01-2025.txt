@@ -1,0 +1,3 @@
+In last Thursday's class, we discussed binary numbers. The binary numeral system allows us to represent natural numbers using just two digits (bits): 0 and 1.
+
+This system is fundamental in modern technology. Each number in binary corresponds to a power of 2, starting from 0 (2^0). Since devices can only interpret electrical signals, which have two possible states—on (1) or off (0)—the binary system is perfect for representing information in digital electronics.

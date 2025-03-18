@@ -1,0 +1,3 @@
+In today's class, we focused primarily on statements and arithmetic operations. A statement in programming is an instruction that carries out an action, such as assigning values, calling functions, or controlling the flow of the program. Arithmetic operations involve basic math calculations like addition (+), subtraction (-), multiplication (*), division (/), and modulus (%). These operations are essential for calculations and data processing within programs.
+
+

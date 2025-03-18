@@ -1,0 +1,3 @@
+Today, we revisited the topic of threads. A thread is a lightweight process that operates independently within a program, sharing memory with other threads. It allows for parallel execution, boosting performance on multi-core systems. Threads are often used for multitasking, like managing user input while processing data simultaneously.
+
+

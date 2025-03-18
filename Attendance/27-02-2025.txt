@@ -1,0 +1,6 @@
+Today's topic was threads. Threads enable a program to execute multiple tasks concurrently, which enhances efficiency, especially in multi-core systems.
+
+We also covered:
+
+sleep() – This function pauses a program’s execution for a specified duration (either in seconds or milliseconds).
+malloc() – This function dynamically allocates memory at runtime, returning a pointer to the allocated space.

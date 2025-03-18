@@ -1,0 +1,3 @@
+In our first class session, we covered the basics of programming to get an overall sense of what we'll be learning over the next three months. We explored the differences between high-level and low-level programming languages, and how C is considered a middle-level language. C is particularly valuable for engineers because it is close to the hardware, yet it also acts as a bridge between software and hardware.
+
+

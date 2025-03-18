@@ -1,0 +1,13 @@
+In the second class, we discussed Unix and Linux, highlighting their differences. Unix is an older operating system, while Linux is similar but offers more flexibility and is free to use.
+
+In the second part of the class, we covered about 30 essential Linux commands. Some of the key ones included:
+
+ls (lists the contents of a folder)
+cd (navigates between directories)
+mkdir (creates directories)
+cp (copies files)
+mv (moves a file or folder)
+
+And many others.
+
+

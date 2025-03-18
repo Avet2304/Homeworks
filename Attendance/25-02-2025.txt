@@ -1,0 +1,5 @@
+Today, we focused on the project requirements. We also briefly discussed the sizeof and strlen operators.
+
+
+The sizeof operator returns the memory size (in bytes) of a variable or data type at compile time, including arrays and structures.
+The strlen operator calculates the length of a string by counting the characters up until the null terminator (\0), excluding the null character itself.

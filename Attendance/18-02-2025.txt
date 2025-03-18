@@ -1,0 +1,3 @@
+Today's main topics were the initialization of structures and strings. In C, a structure is a user-defined data type that groups different variables together. It can be initialized directly or by assigning values to its members individually. A string in C is essentially an array of characters that ends with a null character, and it can be declared using syntax like char str[].
+
+

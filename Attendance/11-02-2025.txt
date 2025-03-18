@@ -1,0 +1,3 @@
+In today's class, we covered the topic of arrays. An array is a data structure that holds multiple values of the same type within a single memory block. It is declared using syntax like "int arr[]".
+
+

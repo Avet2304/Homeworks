@@ -1,0 +1,3 @@
+In today's class, we covered the XML schema, mind map, and concept map. An XML Schema (XSD) outlines the structure and rules for validating an XML document. A mind map visually arranges ideas around a central theme, while a concept map illustrates the relationships between ideas through labeled connections.
+
+

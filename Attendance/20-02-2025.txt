@@ -1,0 +1,3 @@
+Bitwise operations work by manipulating individual bits of integers. These operations are useful for optimizing performance, setting flags, and handling low-level programming tasks.
+
+Pointers, on the other hand, store memory addresses, which allow direct access and manipulation of data. They are essential for efficient memory management, dynamic allocation, and passing data efficiently between functions.
